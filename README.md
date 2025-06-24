@@ -287,5 +287,3 @@ pause
 - N’hésitez pas à consulter l’aide intégrée à chaque commande avec `/h` ou `/?`.
 
 ---
-
-**Besoin d’une commande avancée, d’un script ou d’un cas concret ? Ouvrez une issue ou une discussion !**
